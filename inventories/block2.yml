@@ -143,7 +143,7 @@ Items:
     itemMaterial: DIAMOND_LEGGINGS
     damage: 19
     display: Medium Dark Wooden Beam
-    type: BLOCK
+    type: BLOCK_CONNECT
     blockData: minecraft:chorus_plant
     collection:
       indirect: oak_planks
